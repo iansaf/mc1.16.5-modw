@@ -1007,6 +1007,12 @@
     },
     "done": true
   },
+  "vampirism:hunter/become_hunter": {
+    "criteria": {
+      "main": "2021-06-14 13:27:10 +0800"
+    },
+    "done": true
+  },
   "mcwfences:recipes/dark_oak_stockade_fence": {
     "criteria": {
       "has_the_recipe": "2021-05-22 12:19:28 +0800"
@@ -5674,6 +5680,12 @@
     },
     "done": true
   },
+  "refinedstorage:wireless_items": {
+    "criteria": {
+      "wireless_grid_in_inventory": "2021-06-14 13:36:07 +0800"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/refinedstorage/coloring_recipes/purple_network_transmitter": {
     "criteria": {
       "has_the_recipe": "2021-05-22 12:19:29 +0800"
@@ -6426,9 +6438,10 @@
   },
   "vampirism:hunter/betrayal": {
     "criteria": {
+      "faction": "2021-06-14 13:27:10 +0800",
       "kill": "2021-05-22 17:59:35 +0800"
     },
-    "done": false
+    "done": true
   },
   "tconstruct:recipes/tconstruct/general/common/slime/sky/slimeball_from_congealed": {
     "criteria": {
@@ -8335,6 +8348,12 @@
   "industrialforegoing:recipes/industrialforegoing_core/plastic": {
     "criteria": {
       "has_the_recipe": "2021-05-22 12:19:29 +0800"
+    },
+    "done": true
+  },
+  "chiselsandbits:chiselsandbits/root": {
+    "criteria": {
+      "chisel": "2021-06-14 13:06:50 +0800"
     },
     "done": true
   },
