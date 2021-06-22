@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2021-06-22 17:20:47 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_lilac": {
     "criteria": {
       "has_the_recipe": "2021-05-22 12:24:45 +0800"
@@ -3000,6 +3006,7 @@
       "redwood_forest_edge": "2021-05-24 12:14:34 +0800",
       "grove_clearing": "2021-05-23 11:36:11 +0800",
       "wetland": "2021-05-23 16:01:56 +0800",
+      "crystalline_chasm": "2021-06-22 17:14:56 +0800",
       "withered_abyss": "2021-05-30 13:33:10 +0800",
       "orchard": "2021-05-23 11:22:19 +0800",
       "lavender_forest": "2021-05-23 11:34:19 +0800",
@@ -5139,6 +5146,12 @@
   "tconstruct:recipes/tconstruct/general/common/glass/white_clear_stained_glass_pane": {
     "criteria": {
       "has_the_recipe": "2021-05-22 12:24:47 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2021-06-22 17:50:42 +0800"
     },
     "done": true
   },
