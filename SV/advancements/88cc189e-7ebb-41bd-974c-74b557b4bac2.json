@@ -3139,6 +3139,7 @@
       "minecraft:blaze": "2021-05-30 13:38:39 +0800",
       "minecraft:skeleton": "2021-05-22 19:52:16 +0800",
       "minecraft:hoglin": "2021-06-20 13:38:51 +0800",
+      "minecraft:magma_cube": "2021-07-18 12:27:51 +0800",
       "minecraft:spider": "2021-05-22 13:38:21 +0800",
       "minecraft:creeper": "2021-05-27 13:09:01 +0800",
       "minecraft:phantom": "2021-05-25 09:43:43 +0800",
@@ -3184,6 +3185,12 @@
   "biomesoplenty:recipes/misc/cyan_dye_from_glowflower": {
     "criteria": {
       "has_the_recipe": "2021-05-22 12:24:48 +0800"
+    },
+    "done": true
+  },
+  "refinedstorage:storing_externally": {
+    "criteria": {
+      "external_storage_in_inventory": "2021-08-05 15:25:07 +0800"
     },
     "done": true
   },
@@ -9306,6 +9313,7 @@
     "criteria": {
       "minecraft:forest": "2021-05-22 12:24:49 +0800",
       "minecraft:taiga": "2021-05-24 11:57:58 +0800",
+      "minecraft:taiga_hills": "2021-08-05 16:42:55 +0800",
       "minecraft:snowy_beach": "2021-05-22 12:25:53 +0800",
       "minecraft:deep_lukewarm_ocean": "2021-05-24 12:01:54 +0800",
       "minecraft:river": "2021-05-22 12:26:34 +0800",
@@ -9905,6 +9913,12 @@
   "biomesoplenty:recipes/decorations/magic_fence": {
     "criteria": {
       "has_the_recipe": "2021-05-22 12:24:47 +0800"
+    },
+    "done": true
+  },
+  "refinedstorage:connecting": {
+    "criteria": {
+      "cable_in_inventory": "2021-08-05 15:07:53 +0800"
     },
     "done": true
   },
